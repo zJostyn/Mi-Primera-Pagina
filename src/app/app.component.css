@@ -1,0 +1,67 @@
+div.container {
+    margin-top: 1%;
+    background-color: transparent;
+}
+
+a.navbar-brand {
+    display: flex;
+    justify-content: center;
+}
+
+h1.tecnologiasweb {
+    margin-top: 3%;
+    margin-left: 5%;
+    color: whitesmoke;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+a.nav-link.active {
+    color: whitesmoke;
+}
+
+a.nav-link {
+    color: whitesmoke;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+p.card-text {
+    text-align: justify;
+}
+
+div.card {
+    background-color: transparent;
+    color: whitesmoke;
+    border-color: whitesmoke;
+    margin-bottom: 3%;
+}
+
+div.progress {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h2#megusta {
+    color: whitesmoke;
+    margin-bottom: 2%;
+}
+
+ul.list-group {
+    display: flex;
+    justify-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: transparent;
+}
+
+li.list-group-item {
+    background-color: transparent;
+    color: white;
+}
